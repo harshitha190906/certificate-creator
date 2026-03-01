@@ -1,0 +1,9 @@
+'use strict';
+
+module.exports = {
+    DATABASE_HOST: 'localhost',
+    DATABASE_PORT: 5432,
+    DATABASE_USER: 'your_username',
+    DATABASE_PASSWORD: 'your_password',
+    DATABASE_NAME: 'your_database',
+};
